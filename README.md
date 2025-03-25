@@ -1,7 +1,8 @@
 # ComputationalSocialScienceCourse
 This is the repo for the UvA course in Computational Social Science at the University of Amsterdam. The Repo contains all code needed for the course, and the lecture slides.
 
-The course will be gradually updated during the period of the course, April-May 2024.
+Note that the course material is from last year, and will only be gradually updated during the period of the course, April-May 2025.
+The course material will be up to date on the morning of the given lecture/workshop. 
 
 # Lecturer
 Lecturer is Petter Törnberg at the ILLC, UvA. 
